@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "tuto-expo",
+    "name": "Location de Maison",
     "slug": "tuto-expo",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/home-button.png",
     "scheme": "tutoexpo",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
